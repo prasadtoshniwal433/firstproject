@@ -1,4 +1,4 @@
 # firstproject
-this is my first project taht i am doing on  github 
-y name is prasad ratanlal toshniwal
+This is my first project which I am doing on Git hub
+
 author:- prasad Toshniwal
